@@ -1,4 +1,4 @@
-# 릴리즈노트 가이드용
+# 신규 기능
 
 > ### **Release Highlights**
 > 
