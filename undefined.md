@@ -1,4 +1,4 @@
-# 신규 기능
+# Release Notes Guide
 
 > ### **Release Highlights**
 > 
