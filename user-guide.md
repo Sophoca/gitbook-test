@@ -24,22 +24,22 @@ This document consists of a total of 4 chapters.
 
 {% tabs %}
 {% tab title="서비스 및 법적 고지" %}
-Provides prerequisite knowledge helpful for using OwlDB and information on legal notices.
+Provides background knowledge helpful for using OwlDB and information on legal notices.
 
-🔎 Go to Service and Legal Notices
+🔎 Go to Services and Legal Notices
 {% endtab %}
 {% tab title="환경별 준비 사항" %}
 Provides preparation requirements for each environment to use OwlDB. 
 
-🔎  Go to Environment-Specific Preparation Requirements
+🔎  Go to Environment-Specific Prerequisites
 {% endtab %}
 {% tab title="기능별 사용 안내" %}
-Provides instructions on how to use OwlDB by feature, covering everything from database creation to management, monitoring, and migration. 
+Provides feature-by-feature instructions for using OwlDB, covering database creation, management, monitoring, migration, and more. 
 
 🔎 Go to Feature-by-Feature Usage Guide
 {% endtab %}
 {% tab title="참고 자료" %}
-You can find reference materials that may be helpful when using OwlDB. 
+Contains reference materials that may be helpful when using OwlDB. 
 
 🔎 Go to Reference Materials
 {% endtab %}
