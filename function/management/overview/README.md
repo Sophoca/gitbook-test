@@ -1,3 +1,0 @@
-# Feature Usage Guide / Management / Overview
-
-The Overview page provides a comprehensive summary of the selected database at a glance. You can view detailed information such as database information, instance information, and version information, and perform various operations including starting, stopping, and deleting the database.
