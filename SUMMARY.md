@@ -1,4 +1,4 @@
 # Table of contents
 
-* [OwlDB Manual](user-guide.md)
-* [Legal Notice](overview.md)
+* [Release Notes](releasenote.md)
+* [1.1.0](1.1.0.md)
