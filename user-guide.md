@@ -1,6 +1,6 @@
 # OwlDB Manual
 
-> **About This Guide**
+> **Guide Information**
 > 
 > Guide Title: OwlDB User Guide
 > Publication Date: 2026-05-29
@@ -30,21 +30,21 @@ This document consists of a total of 4 chapters.
 {% tab title="Service and Legal Notices" %}
 Provides prerequisite knowledge helpful for using OwlDB and information on legal notices.
 
-🔎 [Go to Service and Legal Notices](overview.md)
+🔎 [Go to Service and Legal Notices](overview/README.md)
 {% endtab %}
 {% tab title="Installation Guide" %}
-Describes how to install OwlDB. 
+Describes the installation procedure for using OwlDB. 
 
-🔎 [Go to Installation Guide](undefined.md)
+🔎 [Go to Installation Guide](undefined/README.md)
 {% endtab %}
 {% tab title="Feature-by-Feature Usage Guide" %}
-Describes how to use OwlDB by feature, covering database creation, management, monitoring, migration, and more. 
+Covers OwlDB usage by feature, including database creation, management, monitoring, and migration. 
 
-🔎 [Go to Feature-by-Feature Usage Guide](function.md)
+🔎 [Go to Feature-by-Feature Usage Guide](function/README.md)
 {% endtab %}
 {% tab title="Reference Materials" %}
 Reference materials that may be helpful when using OwlDB are available here. 
 
-🔎 [Go to Reference Materials](references.md)
+🔎 [Go to Reference Materials](references/README.md)
 {% endtab %}
 {% endtabs %}
