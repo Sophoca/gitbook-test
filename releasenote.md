@@ -14,3 +14,5 @@ Provides a brief summary of changes, including new features and improvements add
 | 2026-05-29 | OwlDB 1.3 |
 
 ## Go to Release Notes
+
+     [1.1](1.1.0.md)          [1.2](1.2.0.md)        [1.3](1.3.0.md)
