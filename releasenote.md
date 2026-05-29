@@ -2,7 +2,7 @@
 
 ## Overview
 
-Provides a brief summary of changes, including new features and improvements added to each version of OwlDB.
+Provides a brief summary of changes, including new features and improvements added in each OwlDB version.
 
 
 
@@ -19,4 +19,4 @@ Provides a brief summary of changes, including new features and improvements add
 
 ## Go to Release Notes
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1.1.0.md" class="button secondary" data-icon="file-lines">1.1</a>          <a href="1.2.0.md" class="button secondary" data-icon="file-lines">1.2</a>        <a href="1.3.0.md" class="button secondary" data-icon="file-lines">1.3</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1.1.0.md" class="button secondary" data-icon="file-lines">1.1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1.2.0.md" class="button secondary" data-icon="file-lines">1.2</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1.3.0.md" class="button secondary" data-icon="file-lines">1.3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
