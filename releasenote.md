@@ -2,7 +2,7 @@
 
 ## Overview
 
-Provides a brief summary of changes, including new features and improvements, added in each OwlDB version.
+Provides a brief summary of changes, including new features and improvements added in each OwlDB version.
 
 
 
