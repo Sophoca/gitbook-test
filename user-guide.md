@@ -9,7 +9,7 @@
 
 # **Overview**
 
-This guide is intended for all users who wish to conveniently operate and manage a database using the features provided by OwlDB.
+This guide is intended for all users who wish to conveniently operate and manage databases using the features provided by OwlDB.
 
 
 
@@ -27,22 +27,22 @@ This guide is intended for all users who wish to conveniently operate and manage
 This document consists of a total of 4 chapters.
 
 {% tabs %}
-{% tab title="서비스 및 법적 고지" %}
-Provides background knowledge helpful for using OwlDB and information on legal notices.
+{% tab title="Service and Legal Notices" %}
+Provides prerequisite knowledge helpful for using OwlDB and information on legal notices.
 
-🔎 [Go to Services and Legal Notices](overview.md)
+🔎 [Go to Service and Legal Notices](overview.md)
 {% endtab %}
-{% tab title="환경별 준비 사항" %}
-Provides preparation requirements for each environment for using OwlDB. 
+{% tab title="Installation Guide" %}
+Describes how to install OwlDB. 
 
-🔎 [ Go to Environment-Specific Prerequisites](#Dvae8dBLiWQHmEsvc7zl)
+🔎 [Go to Installation Guide](undefined.md)
 {% endtab %}
-{% tab title="기능별 사용 안내" %}
-Provides usage instructions for OwlDB by feature, covering database creation, management, monitoring, migration, and more. 
+{% tab title="Feature-by-Feature Usage Guide" %}
+Describes how to use OwlDB by feature, covering database creation, management, monitoring, migration, and more. 
 
 🔎 [Go to Feature-by-Feature Usage Guide](function.md)
 {% endtab %}
-{% tab title="참고 자료" %}
+{% tab title="Reference Materials" %}
 Reference materials that may be helpful when using OwlDB are available here. 
 
 🔎 [Go to Reference Materials](references.md)
