@@ -2,7 +2,7 @@
 
 ## Overview
 
-The OwlDB Release Notes provide a brief summary of changes introduced in each version, including new features and improvements.
+Provides a brief summary of changes, including new features and improvements added in each version of OwlDB.
 
 ## Release History
 
@@ -11,5 +11,6 @@ The OwlDB Release Notes provide a brief summary of changes introduced in each ve
 | 2025-03-30 | OwlDB 1.0 |
 | 2025-07-01 | OwlDB 1.1 |
 | 2025-12-12 | OwlDB 1.2 |
+| 2026-05-29 | OwlDB 1.3 |
 
 ## Go to Release Notes
